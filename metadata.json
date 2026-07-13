@@ -1,0 +1,6 @@
+{
+  "name": "Harmonify",
+  "description": "A premium music player with personalized playlists, offline downloads, and social sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

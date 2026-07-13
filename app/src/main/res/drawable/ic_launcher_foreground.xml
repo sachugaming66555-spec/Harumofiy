@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sleek visualizer soundwave representing Harmonify launcher logo -->
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M26,36 h8 v36 h-8 z" />
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M40,20 h8 v52 h-8 z" />
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M54,26 h8 v46 h-8 z" />
+    <path
+        android:fillColor="#1DB954"
+        android:pathData="M68,40 h8 v32 h-8 z" />
+</vector>
